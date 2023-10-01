@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[574],{9574:(e,t,n)=>{n.r(t),n.d(t,{default:()=>s});var c=n(7294);const s=function(){return c.createElement("footer",{className:"footer"},c.createElement("div",{className:"content has-text-centered"},c.createElement("p",null,c.createElement("strong",null,"Bulma")," ",".")))}}}]);
